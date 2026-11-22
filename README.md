@@ -27,11 +27,11 @@ This project focuses on predictive modeling and risk scoring to understand bank 
 
 ## Project Links
 - GitHub Repository:
-- Live Dashboard:
 - Power BI Dashboard:
 - Research Report:
 - Project Explanation Video:
 - Internship Experience and Feedback Video:
 
-## Conclusion
-This project provided practical experience in data cleaning, exploratory analysis, customer churn analysis, visualization, and presenting data-driven business insights.
+##Project Conclusion
+
+This project demonstrates the use of data analysis and visualization techniques to understand customer churn patterns and support customer retention decisions.
